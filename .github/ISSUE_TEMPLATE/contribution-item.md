@@ -33,7 +33,7 @@ assignees: ''
 
 <!-- 
 Please create a separate issue for each non-trivial task. Refer to the link below for help.
-(https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue#creating-an-issue-from-a-task-list-item) to 
+(https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue#creating-an-issue-from-a-task-list-item) 
 -->
 
 - [ ] task 1
@@ -53,7 +53,7 @@ Please create a separate issue for each non-trivial task. Refer to the link belo
 
 <!-- 
 Please create one issue for all non-trivial tasks. Refer to the link below for help.
-(https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue#creating-an-issue-from-a-task-list-item) to 
+(https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue#creating-an-issue-from-a-task-list-item)
 -->
 
 - [ ] task for updating user guides if needed
