@@ -32,13 +32,13 @@ assignees: ''
 ### Task breakdown
 
 <!-- 
-Please create one issue for all non-trivial tasks. Refer to the link below for help.
+Please create a separate issue for each non-trivial task. Refer to the link below for help.
 (https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue#creating-an-issue-from-a-task-list-item) to 
 -->
 
-- [ ] Issue for task
-- [ ] Issue for task
-- [ ] Issue for task
+- [ ] task 1
+- [ ] task 2
+- [ ] task 3
 
 -------------------
 
@@ -56,8 +56,8 @@ Please create one issue for all non-trivial tasks. Refer to the link below for h
 (https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue#creating-an-issue-from-a-task-list-item) to 
 -->
 
-- [ ] Issue for updating user guides if needed
-- [ ] Issue for updating installation and configuration guides if needed 
-- [ ] Issue for updating developer documentation if needed
-- [ ] Issue for updating technical documentation if needed
+- [ ] task for updating user guides if needed
+- [ ] task for updating installation and configuration guides if needed 
+- [ ] task for updating developer documentation if needed
+- [ ] task for updating technical documentation if needed
 
