@@ -1,8 +1,7 @@
 ---
 name: Contribution item
-about: This template is to be used for tracking development tasks related to addressing
-  an issue or feature request
-title: Contribution item
+about: Developers should use this when contributing a feature or bug fix
+title: ''
 labels: ''
 assignees: ''
 
@@ -13,16 +12,21 @@ assignees: ''
 - [ ] Read license information
 
 ### Task breakdown
-- [ ] Task 1 description # <issue that tracks this task>
-- [ ] Task 2 description # <issue that tracks this task>
-- [ ] Task 3 description # <issue that tracks this task>
+
+_Please create one issue per task. Refer to [this](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue#creating-an-issue-from-a-task-list-item) to know more._ 
+
+- [ ] Issue for task
+- [ ] Issue for task
+- [ ] Issue for task
+  - [ ] Issue for sub task
+  - [ ] Issue for sub task
 
 ### Test cases and code coverage
 - [ ] Write unit test to cover added/changed code
 - [ ] Update integration tests to cover added/changed code
 
 ### Document the changes
-- [ ] Update user guides if needed # <issue that tracks this task>
-- [ ] Update installation and configuration guides if needed # <issue that tracks this task>
-- [ ] Update developer documentation if needed # <issue that tracks this task>
-- [ ] Update technical documentation if needed # <issue that tracks this task>
+- [ ] Issue for updating user guides if needed
+- [ ] Issue for updating installation and configuration guides if needed # <issue that tracks this task>
+- [ ] Issue for updating developer documentation if needed # <issue that tracks this task>
+- [ ] Issue for updating technical documentation if needed # <issue that tracks this task>
