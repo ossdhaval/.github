@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-_If a section or line item is not applicable, please put `NA` at the end of the line_
+<!-- If a section or line item is not applicable, please put `NA` at the end of the line -->
 
 -------------------
 
@@ -31,7 +31,10 @@ _If a section or line item is not applicable, please put `NA` at the end of the 
 
 ### Task breakdown
 
-_Please create one issue for all non-trivial tasks. Refer to [this](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue#creating-an-issue-from-a-task-list-item) to know how to do it._ 
+<!-- 
+Please create one issue for all non-trivial tasks. Refer to the link below for help.
+(https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue#creating-an-issue-from-a-task-list-item) to 
+-->
 
 - [ ] Issue for task
 - [ ] Issue for task
@@ -48,7 +51,10 @@ _Please create one issue for all non-trivial tasks. Refer to [this](https://docs
 
 ### Document the changes
 
-_Please create one issue for all non-trivial tasks. Refer to [this](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue#creating-an-issue-from-a-task-list-item) to know how to do it._ 
+<!-- 
+Please create one issue for all non-trivial tasks. Refer to the link below for help.
+(https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue#creating-an-issue-from-a-task-list-item) to 
+-->
 
 - [ ] Issue for updating user guides if needed
 - [ ] Issue for updating installation and configuration guides if needed 
