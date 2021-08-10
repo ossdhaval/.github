@@ -13,8 +13,10 @@ assignees: ''
 
 ### Description
 
+- _Communicate high level analysis and possible 
+- _Link this issue to targetted `feature request issue` or `bug fix issue` using `closes`
 
-
+-------------------
 
 ### Prepare
 
