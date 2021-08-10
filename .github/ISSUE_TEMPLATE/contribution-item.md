@@ -13,8 +13,8 @@ _If a section or line item is not applicable, please put `NA` at the end of the 
 
 ### Description
 
-- _Communicate high level analysis and possible 
-- _Link this issue to targetted `feature request issue` or `bug fix issue` using `closes`
+- _Communicate high level analysis and
+- _Link this issue to targeted `feature request issue` or `bug fix issue` using 
 
 -------------------
 
