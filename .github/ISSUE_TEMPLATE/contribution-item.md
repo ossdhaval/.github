@@ -7,9 +7,21 @@ assignees: ''
 
 ---
 
+- _If a section or line item is not applicable, please put `NA` at the end of the line_
+
+-------------------
+
+### Description
+
+
+
+
 ### Prepare
+
 - [ ] Read contribution guidelines
 - [ ] Read license information
+
+-------------------
 
 ### Task breakdown
 
@@ -19,16 +31,20 @@ _Please create one issue for all non-trivial tasks. Refer to [this](https://docs
 - [ ] Issue for task
 - [ ] Issue for task
 
+-------------------
 
 ### Test cases and code coverage
+
 - [ ] Write unit test to cover added/changed code
 - [ ] Update integration tests to cover added/changed code
 
+-------------------
+
 ### Document the changes
 
-_Please create one issue for all non-trivial tasks. Refer to [this](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue#creating-an-issue-from-a-task-list-item) to know how to do it._ 
+- _Please create one issue for all non-trivial tasks. Refer to [this](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue#creating-an-issue-from-a-task-list-item) to know how to do it._ 
 
 - [ ] Issue for updating user guides if needed
-- [ ] Issue for updating installation and configuration guides if needed # <issue that tracks this task>
-- [ ] Issue for updating developer documentation if needed # <issue that tracks this task>
-- [ ] Issue for updating technical documentation if needed # <issue that tracks this task>
+- [ ] Issue for updating installation and configuration guides if needed 
+- [ ] Issue for updating developer documentation if needed
+- [ ] Issue for updating technical documentation if needed
