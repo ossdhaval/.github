@@ -1,6 +1,6 @@
 ---
-name: Contribution item
-about: Developers should use this when contributing a feature or bug fix
+name: Development item
+about: Developers should create this issue to track implementation of a feature or bug
 title: ''
 labels: ''
 assignees: ''
