@@ -1,6 +1,6 @@
 ---
 name: Development item
-about: Developers should create this issue to track implementation of a feature or bug
+about: Create this issue if you are a developer who is contributing code for a feature or bug, and you want to track or co-ordinate development work
 title: ''
 labels: ''
 assignees: ''
@@ -13,7 +13,7 @@ assignees: ''
 
 ### Description
 
-- Original targeted issue
+- Development target issue
   <!-- Mention original `feature request` or `bug` which is being addressed -->
 
 - Implementation Details
